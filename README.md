@@ -53,7 +53,7 @@ $ npm start
 
 ---
 
-Made with ♥ by Joédyson Bezerra :wave: [Entra em contato!](https://www.linkedin.com/in/joedyson-bezerra/)
+Made with ♥ by Joédyson Bezerra :wave: [Get in touch!](https://www.linkedin.com/in/joedyson-bezerra/)
 
 Thanks to [Rocketseat](https://rocketseat.com.br/) for supporting the community and sharing an amazing content. 
 
